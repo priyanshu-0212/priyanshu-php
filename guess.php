@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Priyanshu Srivastava 02d1421b</title> 
+<title> Priyanshu Srivastava 02d1421b </title> 
 <h1>Welcome to my guessing game</h1>
 
 <?php
